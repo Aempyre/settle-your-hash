@@ -1,4 +1,4 @@
-**Hashing\:**  
+**HASHING\:**  
 
 **Can't figure out how to create a unique character string from arbitrary input data?**
 
